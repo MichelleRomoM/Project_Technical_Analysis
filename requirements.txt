@@ -1,0 +1,1 @@
+Libraries & versions required to run the module
