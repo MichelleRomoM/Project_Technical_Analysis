@@ -1,1 +1,2 @@
-Libraries & versions required to run the module
+# Libraries & versions required to run the module
+pandas==2.0.3
